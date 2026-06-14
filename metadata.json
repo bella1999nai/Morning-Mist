@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Morning Mist Atelier",
+  "description": "Premium artisanal bakery website representing the terroir of Sun Moon Lake, Taiwan with multilingual storytelling and shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
